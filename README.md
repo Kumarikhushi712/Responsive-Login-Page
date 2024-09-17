@@ -25,6 +25,9 @@ Any IDE with Java support (e.g., IntelliJ IDEA, Eclipse)
 Acknowledgments
 This project was completed as part of the 4-week Core and Advanced Java course provided by Board Infinity.
 
+Screenshot
+![Responsive-Login-Page](Output screenshot.png)
+
 
 
 
